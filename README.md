@@ -9,4 +9,3 @@ from your fit for various d (0,1,3,9) values.
 
 
 2.Increase the number of training examples to m=100. Repeat the steps done in (I).
-Comment briefly on what changed with the increase of m.
